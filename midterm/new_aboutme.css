@@ -1,0 +1,99 @@
+/* General Styles */
+body {
+    font-family: Georgia, serif;
+    background-color: #f9f9f9;
+    margin: 20px;
+    color: #333;
+}
+
+/* Header Styles */
+h1 {
+    color: #333;
+    background-color: rgb(245, 172, 15);
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #2E86C1;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+
+/* Paragraph Styles */
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+/* List Styles */
+ul, ol {
+    margin-left: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 1.1em;
+    color: #555;
+}
+
+/* Image Styles */
+img {
+    display: block;
+    margin: 10px auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    width: 200px; /* Ensure all images are the same width */
+    height: auto;
+    object-fit: cover; /* Ensures consistent aspect ratio */
+}
+
+/* Section Styles */
+section {
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* My Class Section */
+#my-class {
+    background-color: rgb(255, 242, 204);
+}
+
+/* My Favorite Section */
+#my-favorite {
+    background-color: rgb(255, 242, 204);
+}
+
+/* Mood Sections */
+#my-moods-happy {
+    background-color: rgb(213, 232, 212);
+    text-align: center;
+    font-size: 1.2em;
+    padding: 20px;
+}
+
+#my-moods-sad {
+    background-color: rgb(213, 232, 212);
+    text-align: center;
+    font-size: 1.2em;
+    padding: 20px;
+}
+
+/* Fun Facts Section */
+#fun-facts {
+    background-color: rgb(213, 232, 212);
+    text-align: center;
+    padding: 10px;
+}
+
+/* Validator Links */
+#validators {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#validators img {
+    margin: 5px;
+}

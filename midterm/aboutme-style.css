@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+    font-family: Georgia, serif;
+    background-color: #f9f9f9;
+    margin: 20px;
+    color: #333;
+}
+
+/* Header Styles */
+h1 {
+    color: #4CAF50;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+h2 {
+    color: #2E86C1;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+
+/* Paragraph Styles */
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+/* List Styles */
+ul, ol {
+    margin-left: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 1.1em;
+    color: #555;
+}
+
+/* Image Styles */
+img {
+    display: block;
+    margin: 10px auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    width: 150px;
+    height: auto;
+}
+
+/* Validator Links */
+a {
+    color: #E74C3C;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Custom Section Styles */
+#validators {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#validators img {
+    margin: 5px;
+}
